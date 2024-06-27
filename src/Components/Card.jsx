@@ -4,14 +4,14 @@ export default function Card() {
     return (
         <div className="w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <a href="/">
-                <img className="p-8 rounded-t-lg" src="https://www.chromethemer.com/wallpapers/chromebook-wallpapers/images/960/naruto-and-sasuke-chromebook-wallpaper.jpg" 
+                <img className="p-8 rounded-t-lg" src="https://i.pinimg.com/originals/fd/9b/0c/fd9b0cb09c9d6d777daace2457078aaf.webp" 
                 style={{marginInline:'auto',height:'280px'
                 }}/>
             </a>
             <div className="px-5 pb-5">
                 <a href="/">
                     <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
-                        Naruto and Sasuke 
+                        Naruto Uzumaki
                     </h5>
                 </a>
                 <div className="flex items-center mt-2.5 mb-5">
